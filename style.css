@@ -744,6 +744,10 @@ footer ul li{
 		width: 95%;
 	}
 
+	#hero h2 {
+		width: auto;
+	}
+
 	/* feature */
 	#feature-list div {
 		width: 95%;
